@@ -1,0 +1,29 @@
+#background {
+    width: 100%;
+    height: 100%;
+    background-image: url(/resources/images/upcomingLogo.png);
+    background-position: center center fixed;
+}
+
+.lists {
+    box-shadow: 0 0 30px #000088;
+    text-align: center;
+    text-shadow: 0 0 1px #00aaaa;
+    color: #00ffff;
+    background-color: #000000;
+    font-weight: 700;
+    margin: 50px;
+    border: 1px solid #00ffff;
+    padding: 30px;
+}
+
+ul>div:last-child {
+    background-color: #002222;
+}
+
+#header {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    margin-top: 75px;
+}

@@ -1,0 +1,44 @@
+Version Alpha 1.6 Dev 3(Optimization Dev):
+Will optimize many components of gameplay making the game faster (using multi-threading) and having more optimized code. Also with this update is the update of collision detection to deal with the fact that walls can now be placed in the air. Lots of bug fixes, and changes to the maps to make them tell more of a story now instead of just being kind of there like they were. Also there are now resource packs that the game loads in instead of having various themes. Resource packs allow the user to customize the game to their liking by changing game mechanics, audio, textures, and the maps that the player can play, but does not change the default mechanics of the game or engine. Also items and entities are given more attributes so that doors can raise to different heights, doors and elevators can continue to keep moving, custom audio queues can be played upon activation of certain items, etc... Also you can now crouch under blocks.|
+Version Alpha 1.6 (The Weapon and Item update):
+Will add tons more items, several more weapons (machine gun, etc...), Scepter of deceit will have a use now turning enemies against each other. Other items will have uses.
+-	Upgrade Points can be used for weapon upgrades, and player upgrades.
+-	Bosses will drop 10 weapon upgrade points
+-	Player upgradable items (speed boost, health boost, etc...)
+-	Tons and tons and tons of bug fixes
+-	Eyesight mechanic added to the game for any entity in the game
+-	Invisibility crystal now turns player invisible so enemies cannot see him/her
+-	Code is Optimized
+-	Teleporters are added
+-	New textures and GUI textures
+-	New Levels and more story mode additions to add to the story
+-	Rocket mechanics and physics, as well as explosion physics
+-	New game mechanics with buttons and such and activating things
+-	Tutorial mode added so player can learn how the game looks and plays
+-	Better rendering method fixing the glass not rendering sometimes bug
+-	Corpses are randomized between a girl and boy marine
+-	New Marine helpers you can rescue from captivity and they will fight enemies for you (The closest enemy to the player.)
+-	Holy water which will power a new water gun weapon to burn enemies (May add fire aspect to the game, maybe bleeding out too?)
+-	Swimming through water blocks
+-	New Sounds and textures|
+Version Alpha 1.7 (The Game taking shape):
+-	Campaign mode will be complete. All sound clips and things imperative to the story will be added. 
+-	Marvelgoth will be added with all of his ferocity.
+-	Survival wave mode will be added. Player will gain upgrade points in increasing numbers after each wave where he/she can upgrade him/herself and his/her weapons. Waves will start the player activates them. Waves will get harder as the game goes on. After 20 waves it will loop but the enemies will get faster and stronger.
+-	Sandbox mode: Summon what you want, summon blocks and destroy blocks, give yourself weapons and upgrade points, etc...|
+Version Alpha 1.8 (Graphical update):
+-	Tops of walls and bottoms of walls if it takes me a year to add. 
+-	All textures will be optimized and more high depth
+-	All animations will be complete and better.
+-	Walls won't stretch. I will work until this is fixed!
+Version Alpha 1.9(I see the light update):
+-	Better lighting system. Lights will draw vectors from their sources to all blocks in the surrounding radius and depending on their distance away they may or may not have an effect.
+-	Completely dark rooms. Also light switches turning lights on and off
+-	Flickering lights
+-	Etc...|
+Vile Beta 1.0 (Mapping out the future):
+-	Walls of shorter and longer widths. Blocks on top of other blocks. Just better map creation over all to make a more real game experience.
+-	Maps redone to accompany this new change.|
+Eventually:
+If I ever find out how to fix or do these things... Render tops of walls, create skybox/skydome, stop wall stretching,
+

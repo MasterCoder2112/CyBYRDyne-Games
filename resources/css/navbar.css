@@ -1,0 +1,17 @@
+/*
+ * This is so the navbar menu items actually look good. For some reason
+ * they didn't act correctly till I did this. I hated using the !important
+ * but otherwise the color just would not change to what it should be.
+ */
+
+div>a {
+    color: #FFFFFF !important;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.stayPut {
+    position: fixed;
+    margin: 0 auto;
+    margin-left: 15%;
+}

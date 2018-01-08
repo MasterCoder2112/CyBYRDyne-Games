@@ -1,0 +1,27 @@
+extends layout
+
+block title
+	title Navigation
+
+append styles
+	link(rel='stylesheet' href='/resources/css/navbar.css')
+
+block mainContent
+	//- We're going to put the ui here
+	div.container
+		section.stayPut
+			nav.navbar.is-dark
+				div.navbar-brand
+					image.navbar-item(src='/resources/images/logo.png')
+				div.navbar-menu.is-active.navbar-brand
+					a.navbar-item(href='/applet') Applet
+					a.navbar-item(href='/history') Version History
+					a.navbar-item(href='/upcoming') Upcoming Features
+					a.navbar-item(href='/tweets') Tweet Game
+					a.navbar-item(href='/logout') Log Out
+		section.section
+			block content
+		footer.footer.anchor
+			div.content.has-text-centered
+				p Alexander Byrd 
+				p soccer43802@gmail.com

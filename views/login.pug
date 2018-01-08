@@ -1,0 +1,13 @@
+extends layout
+
+block title
+	title Log In:
+
+append styles
+	link(rel='stylesheet' href='/resources/css/login.css')
+
+block mainContent
+	h1 Welcome to Cy-BYRD-yne Games!
+	image#logo(src='/resources/images/logo.png')
+	div
+		a#login(href='/auth/facebook') Facebook Log In

@@ -1,0 +1,17 @@
+extends nav
+
+block title
+	title Tweet Game!
+
+append styles
+	link(rel='stylesheet' href='/resources/css/tweetPage.css')
+
+block content
+	div#logo
+		image(src='/resources/images/twitter.png')
+	div#header SCORE: 0
+	ol
+		each tweet in tweetObjArray.getArray()
+			div.lists Tweet: ---------- Points: #{tweet.score}
+				li= `${tweet.text}`
+	script(src="/resources/js/tweetGame.js")
